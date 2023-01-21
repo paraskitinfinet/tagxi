@@ -278,7 +278,7 @@ return array (
   'enter_price' => 'Enter Price',
   'bill_status' => 'Bill Status',
   'base_distance' => 'Base Distance',
-  'price_per_time' => 'Price Per Minute',
+  'price_per_time' => 'Price Per Minute....',
   'waiting_charge' => 'Waiting Charge Per Minutes',
   'free_waiting_time_in_mins_before_trip_start' => 'Free Waiting Time In Minutes Before Start A Ride',
   'free_waiting_time_in_mins_after_trip_start' => 'Free Waiting Time In Minutes After Start A Ride',
